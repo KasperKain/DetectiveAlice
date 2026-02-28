@@ -1,0 +1,183 @@
+{
+  "HELP_MAN": {
+    "type": "npc",
+    "character": "1",
+    "name": "Help Man",
+    "dialogue": "Hello There! When you get close to characters or objects, you will see a dialogue box like this one!\n\nBe sure to read any new dialogue that you come across."
+  },
+
+  "HELP_MAN_2": {
+    "type": "npc",
+    "character": "2",
+    "name": "Help Man",
+    "dialogue": "You can press the TAB key to interact with certain objects!\n\nYou'll be notified if an object can be interacted with."
+  },
+
+  "HELP_MAN_3": {
+    "type": "npc",
+    "character": "3",
+    "name": "Help Man",
+    "dialogue": "You can press ESC at any time to go to the overworld map.\n\nFrom there you will have access to commands that will help you navigate to other regions.\n\nTry it out now"
+  },
+
+  "WHITE_RABBIT": {
+    "type": "npc",
+    "character": "R",
+    "name": "White Rabbit",
+    "dialogue": "I would help you, truly I would.\n\nBut I’m already late for something I don’t remember agreeing to.\n\nIf you wait long enough, you’ll be late too."
+  },
+
+  "MAD_HATTER": {
+    "type": "npc",
+    "character": "H",
+    "name": "Mad Hatter",
+    "dialogue": "We don’t solve things here. We rearrange them until they look finished.\n\nIf it works, it was correct. If it doesn’t, it was still very interesting.\n\nSome things refuse to act on their own.\n\nOnce things are PUSHED to where they belong, the way forward usually opens."
+  },
+
+  "MARCH_HARE": {
+    "type": "npc",
+    "character": "M",
+    "name": "March Hare",
+    "dialogue": "You should have been here earlier.\n\nOr later.\n\nEither would have made more sense than now."
+  },
+
+  "CHESHIRE_CAT": {
+    "type": "npc",
+    "character": "C",
+    "name": "Cheshire Cat",
+    "dialogue": "Most paths lead somewhere.\n\nWhether you’ll still be yourself when you arrive is the more important question.\n\nI would smile about it, but I already am."
+  },
+
+  "CATERPILLAR": {
+    "type": "npc",
+    "character": "L",
+    "name": "Caterpillar",
+    "dialogue": "Who are you?\n\nNo, not your name.\n\nThe part that keeps changing."
+  },
+
+  "MOCK_TURTLE": {
+    "type": "npc",
+    "character": "T",
+    "name": "Mock Turtle",
+    "dialogue": "We studied very important things here.\n\nI can’t recall what they were meant to prepare us for.\n\nThe lessons went on for years.\n\nThe understanding never arrived.\n\nStill, it would be improper to say they were a waste."
+  },
+
+  "KING_OF_HEARTS": {
+    "type": "npc",
+    "character": "K",
+    "name": "King of Hearts",
+    "dialogue": "I agree with the Queen.\n\nI always do.\n\nIt keeps things orderly."
+  },
+
+  "DORMOUSE": {
+    "type": "npc",
+    "character": "Z",
+    "name": "Dormouse",
+    "dialogue": "I was awake when this started, I think. Everyone inside began moving at the same time. Not together, just… according to something.\n\nI couldn’t tell when it was my turn. If you stop, you’re in the way. If you move too soon, you are also in the way. It’s easier to stay here and pretend I’m only resting.\n\nIf you can navigate through such a maze, good for you."
+  },
+
+  "ALICE": {
+    "type": "npc",
+    "character": "A",
+    "name": "Alice",
+    "dialogue": "You can't lie to yourself forever"
+  },
+
+  "PRISONER_ONE": {
+    "type": "npc",
+    "character": "4",
+    "name": "Prisoner",
+    "dialogue": "They said the door would open when it was solved.\n\nThey didn’t say for whom.\n\nWaiting feels like compliance."
+  },
+
+  "PRISONER_TWO": {
+    "type": "npc",
+    "character": "5",
+    "name": "Prisoner",
+    "dialogue": "I already solved my part.\n\nNothing changed.\n\nPerhaps the puzzle was never the point."
+  },
+
+  "PRISONER_THREE": {
+    "type": "npc",
+    "character": "6",
+    "name": "Prisoner",
+    "dialogue": "At first, I thought this was punishment.\n\nNow I think it’s storage.\n\nSome things are kept, not corrected."
+  },
+
+  "BLOCK": {
+    "type": "block",
+    "character": "■",
+    "name": "Block",
+    "dialogue": "This is a block. When pushed it will slide in a straight direction until it hits something."
+  },
+
+  "SWITCH": {
+    "type": "switch",
+    "character": "○",
+    "name": "Switch",
+    "dialogue": "This is a switch. You can activate it by pushing a block onto it!"
+  },
+
+  "DOOR": {
+    "type": "door",
+    "character": "▒",
+    "name": "Door",
+    "dialogue": "This is a locked door. You'll need to figure out how to open it."
+  },
+
+  "ITEM_1": {
+    "type": "item",
+    "character": "▦",
+    "name": "Medical Report",
+    "dialogue": "A condensed record of observations and conclusions. Checkboxes replace explanations.\n\nWhatever mattered here was decided before you ever saw it."
+  },
+
+  "ITEM_2": {
+    "type": "item",
+    "character": "▣",
+    "name": "Personal Effects Bag",
+    "dialogue": "A container meant to separate what belonged to you from what no longer does.\n\nEverything inside has been reduced to inventory."
+  },
+
+  "ITEM_3": {
+    "type": "item",
+    "character": "◴",
+    "name": "Wristwatch",
+    "dialogue": "The hands no longer move, yet the moment remains fixed.\n\nYou can’t remember when time stopped being useful."
+  },
+
+  "ITEM_4": {
+    "type": "item",
+    "character": "▤",
+    "name": "Identification Card",
+    "dialogue": "A structured proof that you exist in the correct way.\n\nThe face matches. The relevance does not."
+  },
+
+  "ITEM_5": {
+    "type": "item",
+    "character": "≣",
+    "name": "Consent Form",
+    "dialogue": "Multiple confirmations layered on top of each other.\n\nAgreement achieved through repetition rather than understanding."
+  },
+
+  "ITEM_6": {
+    "type": "item",
+    "character": "⟡",
+    "name": "Toe Tag",
+    "dialogue": "A final label applied when conversation is no longer expected.\n\nIt records facts without asking if they mattered."
+  },
+
+  "ITEM_7": {
+    "type": "item",
+    "character": "☑",
+    "name": "Final Notice",
+    "dialogue": "A confirmation that nothing further is required.\n\nClosure, formally acknowledged."
+  },
+
+  "FINAL_ITEM": {
+    "type": "final_item",
+    "character": "▢",
+    "name": "Case Closure",
+    "dialogue": "An empty structure signifying completion.\n\nNo loose ends remain.\n\nThat is the official position."
+  }
+}
